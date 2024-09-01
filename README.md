@@ -1,97 +1,82 @@
-Program Sederhana Golang
+# Simple Golang Programs
 
-Program 1
-percabangan Golang dengan kondisi
+## Description
+This repository contains a collection of simple Golang programs designed to demonstrate various programming concepts and functionalities. Each program is described below with its respective functionality and expected output.
 
-    - Jika mutu kurang dari sama dengan 40 maka nilai D,
-    - jika mutu kurang dari 61 maka nilai C,
-    - jika nilai kurang dari 81 maka nilai B,
-    - selain itu nilai A.
+## Programs
 
-Program 2
-program dengan output:
+### Program 1: Conditional Branching
+- If the score is less than or equal to 40, the grade is D.
+- If the score is less than 61, the grade is C.
+- If the score is less than 81, the grade is B.
+- Otherwise, the grade is A.
 
-    - nilai anda adalah 50
-    - maaf anda tidak lulus
+### Program 2: Output Example
+- Your score is 50.
+- Sorry, you did not pass.
 
-Program 3
-program Golang yang dapat menampilkan output berupa
+### Program 3: Odd Numbers
+- Displays odd numbers from 1 to 100.
 
-    - angka ganjil dari bilangan 1-100.
+### Program 4: Triangle Area Calculator
+- Calculates the area of a triangle given the base and height.
 
-Program 4
-Kalkulator/Fungsi untuk menghitung luas Segitiga
-dengan parameter
+### Program 5: Character Count
+- Displays the number of characters in a string.
+- Example input: "Programmer".
 
-    - Alas dan Tinggi
+### Program 6: Triangle Area Calculation
+- Calculates the area of a triangle.
 
-Program 5
-program menampilkan jumlah
+### Program 7: Rectangle Area Calculator
+- Calculates the area of a rectangle given the length and width.
 
-    - karakter dalam suatu string
-    - dengan inputan string “Programmer”
+### Program 8: Circle Area Calculator
+- Calculates the area of a circle with π = 3.14 and radius = 7.
 
-program 6
-menghitung luas segitiga
+### Program 9: Even Numbers
+- Displays even numbers from 1 to 75.
 
-program 7
-program menghitung Luas Persegi dengan parameter
+### Program 10: Days of the Week Array
+- Creates an array containing the names of the days from Monday to Sunday.
+- Example output: "Day 1 is Monday", "Day 2 is Tuesday", etc.
 
-    - Panjang dan Lebar
+### Program 11: Fibonacci Sequence
+- Displays the first 5 Fibonacci numbers with the first term = 6 and the second term = 9.
 
-program 8
-program untuk menghitung luas lingkaran dengan pi = 3,14 r = 7
+### Program 12: Right-Angled Triangle
+- Creates a right-angled triangle using asterisks.
 
-program 9
-program dengan output berupa angka
+### Program 13: Full Triangle
+- Creates a full triangle using asterisks.
 
-    - genap 1-75
+### Program 14: Simple Calculator
+- A basic calculator program.
 
-program 10
-Buat sebuah array berisi nama-nama hari
-dari senin hingga minggu
-dengan contoh
+### Program 15: Rectangle Area Calculation
+- Calculates the area of a rectangle.
 
-    - hari ke 1 adalah hari senin
-    - hari ke 2 adalah hari selasa
+### Program 16: Rectangle Area Calculation
+- Calculates the area of a rectangle.
 
-program 11
-Buatlah program dengan output berupa 5 fibonacci number dengan
+### Program 17: Trigonometric Functions
+- Calculates sine, cosine, and tangent angles.
 
-    - suku pertama = 6
-    - suku ke kedua = 9
+### Program 18: Density Calculation
+- Calculates density.
 
-program 12
-membuat segitiga siku-siku dengan bintang
+### Program 19: Counting to One Million
+- Counts from 1 to 1,000,000 and displays the record.
 
-program 13
-membuat segitiga full dengan bintang
+### Program 20: Cube Surface Area
+- Calculates the surface area of a cube.
 
-program 14
-Kalkulator Sederhana
+### Program 21: Odd Numbers
+- Displays odd numbers from 1 to 75.
 
-program 15
-menhitunga luas persegi Panjang
+### Program 22: Input and Output
+- Demonstrates input and output operations.
 
-program 16
-menhitung luas persegi Panjang
+---
 
-program 16
-menghitung sudut sin cos tan
-
-program 18
-menghitung masa jenis
-
-program 19
-menghitung 1- 1juta dan menampilkan recordnya
-
-program 20
-menhitung luas permukaan kubus
-
-program 21
-program golang dengan output berupa angka ganjil 1-75
-
-program 22
-input output data
-
-powered by Reza
+Powered by Reza
